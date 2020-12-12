@@ -1,0 +1,35 @@
+<code_scheme name="Tom's Scheme" version="173">
+  <JSON>
+    <option name="ARRAY_WRAPPING" value="0" />
+  </JSON>
+  <Objective-C>
+    <option name="INDENT_NAMESPACE_MEMBERS" value="0" />
+    <option name="KEEP_NESTED_NAMESPACES_IN_ONE_LINE" value="true" />
+    <option name="FUNCTION_BRACE_PLACEMENT" value="2" />
+    <option name="SPACE_BEFORE_POINTER_IN_DECLARATION" value="false" />
+    <option name="SPACE_AFTER_POINTER_IN_DECLARATION" value="true" />
+    <option name="SPACE_BEFORE_REFERENCE_IN_DECLARATION" value="false" />
+    <option name="SPACE_AFTER_REFERENCE_IN_DECLARATION" value="true" />
+    <option name="SPACE_BETWEEN_ADJACENT_BRACKETS" value="true" />
+  </Objective-C>
+  <XML>
+    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
+  </XML>
+  <codeStyleSettings language="JSON">
+    <option name="SPACE_WITHIN_BRACKETS" value="true" />
+    <option name="SPACE_WITHIN_BRACES" value="true" />
+  </codeStyleSettings>
+  <codeStyleSettings language="JavaScript">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="ObjectiveC">
+    <option name="BLANK_LINES_AROUND_CLASS" value="0" />
+    <option name="BLANK_LINES_AROUND_METHOD" value="0" />
+    <option name="BLANK_LINES_AROUND_METHOD_IN_INTERFACE" value="0" />
+    <option name="CLASS_BRACE_STYLE" value="2" />
+    <option name="INDENT_CASE_FROM_SWITCH" value="false" />
+    <option name="SPACE_WITHIN_ARRAY_INITIALIZER_BRACES" value="true" />
+  </codeStyleSettings>
+</code_scheme>

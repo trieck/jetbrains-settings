@@ -1,0 +1,7 @@
+<application>
+  <component name="ExternalDiffSettings">
+    <option name="DIFF_DEFAULT" value="true" />
+    <option name="DIFF_ENABLED" value="true" />
+    <option name="DIFF_EXE_PATH" value="/usr/bin/bcompare" />
+  </component>
+</application>

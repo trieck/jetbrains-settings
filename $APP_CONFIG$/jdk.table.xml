@@ -1,0 +1,146 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.6" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.9" />
+      <homePath value="/usr/bin/python3.6" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/python3.6" type="simple" />
+            <root url="file:///usr/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/.local/lib/python3.6/site-packages" type="simple" />
+            <root url="file:///usr/local/lib/python3.6/dist-packages" type="simple" />
+            <root url="jar:///usr/local/lib/python3.6/dist-packages/mask_rcnn-2.1-py3.6.egg!/" type="simple" />
+            <root url="file:///usr/local/lib/python3.6/dist-packages/sip-5.3.1.dev2006052202-py3.6-linux-x86_64.egg" type="simple" />
+            <root url="file://$USER_HOME$/src/yolov5" type="simple" />
+            <root url="file://$USER_HOME$/src/detectron2" type="simple" />
+            <root url="file:///usr/lib/python3/dist-packages" type="simple" />
+            <root url="file://$USER_HOME$/.cache/JetBrains/PyCharm2020.3/python_stubs/-1247971763" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="1.8" />
+      <type value="SimpleJavaSdkType" />
+      <version value="java version &quot;1.8.0_252&quot;" />
+      <homePath value="/usr/lib/jvm/java-8-openjdk-amd64" />
+      <roots>
+        <classPath>
+          <root type="composite" />
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="1.8 (2)" />
+      <type value="SimpleJavaSdkType" />
+      <version value="java version &quot;1.8.0_252&quot;" />
+      <homePath value="/usr/lib/jvm/java-1.8.0-openjdk-amd64" />
+      <roots>
+        <classPath>
+          <root type="composite" />
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (nms_algorithm)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.1" />
+      <homePath value="$USER_HOME$/work/nms_algorithm/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/anaconda3/lib/python3.7" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/work/nms_algorithm/venv/lib/python3.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/lib/python3.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.cache/JetBrains/PyCharm2020.3/python_stubs/-1091633889" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/work/nms_algorithm" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (ds-utils)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.1" />
+      <homePath value="$USER_HOME$/work/ds-utils/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/anaconda3/lib/python3.7" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/work/ds-utils/venv/lib/python3.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/lib/python3.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.cache/JetBrains/PyCharm2020.3/python_stubs/723914994" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/work/ds-utils" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (MAXAR_ProtoNets)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.1" />
+      <homePath value="$USER_HOME$/work/MAXAR_ProtoNets/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/anaconda3/lib/python3.7" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/work/MAXAR_ProtoNets/venv/lib/python3.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/lib/python3.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.cache/JetBrains/PyCharm2020.3/python_stubs/-1984538065" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/work/MAXAR_ProtoNets" />
+    </jdk>
+  </component>
+</application>

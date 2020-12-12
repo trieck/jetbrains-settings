@@ -1,0 +1,13 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="Reformat Code">
+      <action id="ReformatCode" />
+      <action id="SaveAll" />
+    </macro>
+    <macro name="Optimize Code">
+      <action id="ReformatCode" />
+      <action id="OptimizeImports" />
+      <action id="SaveAll" />
+    </macro>
+  </component>
+</application>
