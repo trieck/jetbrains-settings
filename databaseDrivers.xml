@@ -6,9 +6,6 @@
     <driver id="clickhouse">
       <option name="auto-sync" value="true" />
     </driver>
-    <driver id="couchbase_query">
-      <option name="auto-sync" value="true" />
-    </driver>
     <driver id="db2.11">
       <option name="auto-sync" value="false" />
     </driver>
