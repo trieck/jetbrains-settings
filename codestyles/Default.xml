@@ -10,5 +10,6 @@
   <codeStyleSettings language="ObjectiveC">
     <option name="BLANK_LINES_AROUND_METHOD_IN_INTERFACE" value="0" />
     <option name="CLASS_BRACE_STYLE" value="2" />
+    <option name="SPACE_WITHIN_ARRAY_INITIALIZER_BRACES" value="true" />
   </codeStyleSettings>
 </code_scheme>
