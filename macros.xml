@@ -1,0 +1,7 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="Sort Lines">
+      <action id="EditorSortLines" />
+    </macro>
+  </component>
+</application>
