@@ -28,10 +28,10 @@
     <mask>*_test.cpp</mask>
     <mask>*.h</mask>
     <mask>*.feature</mask>
-    <mask>*test.cpp</mask>
     <mask>*.py</mask>
     <mask>*.cpp</mask>
     <mask>*test.cc</mask>
     <mask>*.cc</mask>
+    <mask>*test.cpp</mask>
   </component>
 </application>
