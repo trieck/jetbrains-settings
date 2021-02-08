@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.cpp" />
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.cp</mask>
@@ -31,7 +32,7 @@
     <mask>*test.cc</mask>
     <mask>*.cc</mask>
     <mask>*test.cpp</mask>
-    <mask>*.cpp</mask>
     <mask>*.h</mask>
+    <mask>*.cpp</mask>
   </component>
 </application>
