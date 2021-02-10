@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.cpp" />
+    <option name="FILE_MASK" value="*.py" />
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.cp</mask>
@@ -28,11 +28,11 @@
     <mask>*.cmake</mask>
     <mask>*_test.cpp</mask>
     <mask>*.feature</mask>
-    <mask>*.py</mask>
     <mask>*test.cc</mask>
     <mask>*.cc</mask>
     <mask>*test.cpp</mask>
     <mask>*.h</mask>
     <mask>*.cpp</mask>
+    <mask>*.py</mask>
   </component>
 </application>
