@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*_test.cpp" />
     <mask>*.xml</mask>
     <mask>*.cp</mask>
     <mask>*.inl</mask>
@@ -32,7 +31,7 @@
     <mask>*.h</mask>
     <mask>*.py</mask>
     <mask>*.txt</mask>
-    <mask>*.cpp</mask>
     <mask>*_test.cpp</mask>
+    <mask>*.cpp</mask>
   </component>
 </application>
