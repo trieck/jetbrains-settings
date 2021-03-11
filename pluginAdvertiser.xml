@@ -1838,6 +1838,11 @@
             <FeaturePluginsList>
               <option name="featureMap">
                 <map>
+                  <entry key="Buck test">
+                    <value>
+                      <FeaturePluginData displayName="Buck test" pluginName="Buck for IDEA" pluginId="intellij.buck.plugin" />
+                    </value>
+                  </entry>
                   <entry key="CLionExternalRunConfiguration">
                     <value>
                       <FeaturePluginData displayName="Custom Build Application" pluginName="CLion IDE" pluginId="com.intellij.clion" />
